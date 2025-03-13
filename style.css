@@ -1,0 +1,29 @@
+
+body{
+    background-color: rgb(236, 136, 158);
+}.page1 img{
+  height: 300px;
+  width: 400px;
+}
+.page1{
+    text-align: center;
+    margin: 0 400px;
+  margin-top: 150px;
+ 
+}
+button{
+  border-radius: 10px;
+  background-color:whitesmoke;
+  color: black;
+  padding: 10px;
+
+}
+/* .page2 img{
+    height: 300px;
+  width: 400px;
+}
+.page2{
+    text-align: center;
+    margin: 0 400px;
+  margin-top: 400px;
+} */
